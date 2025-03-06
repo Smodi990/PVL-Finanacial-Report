@@ -101,6 +101,9 @@ Current liabilities increased from 1,69,820 in 2018 to 10,40,448 in 2021, reflec
 
 Long-term liabilities followed a similar trend, rising from 2,60,000 in 2018 to 9,31,197 in 2021.
 
+![balanse](https://github.com/user-attachments/assets/6584158e-0ffe-42b7-977b-6b42341b157a)
+
+
 **Owners' Equity**
 
 The total owners' equity grew significantly from 26,48,369 in 2018 to 1,03,48,356 in 2021.
@@ -122,5 +125,54 @@ Share capital remained consistent at 81,05,867 in 2020 and 2021, reflecting stab
 > Return on Capital Employed (ROCE): Improved from -0.85% in 2018 to 14.67% in 2021, reflecting better returns on investments.
 
 > Return on Equity (ROE): Showed significant growth, from -0.69% in 2018 to 12.91% in 2021, indicating increased profitability for shareholders.
+
+<br></br>
+## Cash Flow Analysis Report
+
+
+**1.Cash and Cash Equivalents:**
+
+The company started with a cash balance of $6,67,650 in 2018, which increased significantly to $31,33,776 in 2019, then slightly decreased to $29,07,775 in 2020, and finally peaked at $45,10,732 in 2021.
+
+**2.Cash Flows from Operating Activities:**
+
+There was a substantial increase in cash flow from operating activities, starting from $30,216 in 2018 to $6,84,221 in 2021.
+
+Profit before tax improved from a loss of $-28,642 in 2018 to a significant gain of $16,35,952 in 2021.
+
+Non-cash items, such as depreciation and other adjustments, also contributed positively to cash flows, increasing over the years.
+
+Working capital changes impacted cash flows negatively, especially in 2021 with a major outflow of $-12,32,641.
+
+Interest paid and tax paid gradually increased, reflecting the company’s financial commitments.
+
+**3.Cash Flows from Investing Activities:**
+Investments in non-current assets were consistently high, with purchases peaking at $-34,63,680 in 2020.
+
+Sale of non-current assets provided cash inflows, particularly in 2019 ($34,56,100) and 2020 ($42,82,365).
+
+Investments outflow also increased, peaking at $-6,72,000 in 2020.
+
+Dividend and interest received showed a steady increase, contributing positively to cash inflows.
+
+Overall, net investing activities moved from an outflow of $-2,54,233 in 2018 to a strong inflow of $10,73,176 in 2021.
+
+**4.Cash Flows from Financing Activities:**
+
+The company raised funds through share capital issuance, with the highest amount of $37,96,000 in 2019.
+
+Dividend payments increased, reaching $-1,54,440 in 2021, indicating returns to shareholders.
+
+Cash flows from financing activities decreased from a peak of $35,35,500 in 2019 to a net outflow of $-1,54,440 in 2021, indicating reduced external financing.
+
+**5.Net Cash Flow and Final Cash Position:**
+
+The company experienced fluctuating cash flows, with a major surge in 2020 ($90,38,283) and reaching $95,00,482 in 2021.
+
+The overall trend indicates strong financial growth and stability, with significant contributions from operating activities and strategic investments.
+
+### Conclusion:
+The company has demonstrated strong financial growth over the years, with increasing revenues, profitability, and liquidity. While cash flow and balance sheet figures indicate financial stability, rising liabilities and higher operating expenses need careful management. The key financial ratios suggest an overall improvement in efficiency, profitability, and financial health. Moving forward, optimizing cost structures and maintaining efficient capital allocation will be crucial for sustained growth.
+
 
 
